@@ -25,14 +25,4 @@ Kullanılan Teknolojiler
 - React   <img align="left" height="30"  src="https://miro.medium.com/max/2400/1*aLg1-G2UAlaKpBopRnmCRg.png" />
 - JavaScript   <img align="left" height="30"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" />
 
-Takım Lideri
---
-Hatice Nur KAYA
-
-
-Takım Üyeleri
---
-- Hilal GÜLTEKİN
-- Amine DENİZ
-- Melih İLHAN 
 
